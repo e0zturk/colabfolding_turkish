@@ -4,7 +4,8 @@ LocalColabFold ve AlphaFold2 kullanarak amino asit dizilerinden yüksek doğrulu
 
 #### LocalColabFold Protein Modelleme
 
-**AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan sistem. Teknik detaylar ve kullanım rehberi not defteri içerisinde yer almaktadır.**
+AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan sistem. Teknik detaylar ve kullanım rehberi not defteri içerisinde yer almaktadır.
+
 ---
 ##### Kurulum ve Kullanım
 
