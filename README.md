@@ -5,7 +5,7 @@ AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan basitleş
 
 #### Kurulum ve Kullanım
 
-* folding.ipynb dosyasını Google Colab ile doğrudan açın ve ilk hücreyi çalıştırarak Google Drive bağlantısını onaylayın.
+* `folding.ipynb` dosyasını Google Colab ile doğrudan açın ve ilk hücreyi çalıştırarak Google Drive bağlantısını onaylayın.
 
 * Drive üzerinde otomatik oluşan Folding/data klasörüne .fasta dosyanızı yükleyin ve hücreleri sırasıyla çalıştırın.
 
