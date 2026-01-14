@@ -1,7 +1,7 @@
 
 ## LocalColabFold Protein Katlanması [YoshitakaMo](https://github.com/YoshitakaMo/localcolabfold) tarafından
 
-AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan sistem. Teknik detaylar ve kullanım rehberi not defteri içerisinde yer almaktadır.
+AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan basitleştirilmiş bir yapay zeka modelidir. Teknik detaylar ve kullanım rehberi not defteri içerisinde yer almaktadır. İçerik dilinin türkçe olması yerel araştırmacılar için en büyük artıdır. 
 
 #### Kurulum ve Kullanım
 
@@ -10,12 +10,10 @@ AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan sistem. T
 * Drive üzerinde otomatik oluşan Folding/data klasörüne .fasta dosyanızı yükleyin ve hücreleri sırasıyla çalıştırın.
 
 ---
-# colabfolding_turkish
-A Google Colab system for high-accuracy 3D protein structure prediction from amino acid sequences using LocalColabFold and AlphaFold2.
 
 ### LocalColabFold Protein Modeling
 
-A system for protein structure prediction using AlphaFold2 and LocalColabFold. Technical details and the user guide are included within the notebook.
+It is a simplified artificial intelligence model that predicts protein structures using AlphaFold2 and LocalColabFold. Technical details and a user guide are included in the notebook. The fact that the content is in Turkish is a major advantage for local researchers.
 
 #### Installation and Usage
 * Open the folding.ipynb file in Google Colab and authorize Google Drive access by running the first cell.
