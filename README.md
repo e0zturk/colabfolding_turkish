@@ -1,5 +1,5 @@
 
-## LocalColabFold Protein Modelleme
+## LocalColabFold Protein Katlanması [YoshitakaMo](https://github.com/YoshitakaMo/localcolabfold) tarafından
 
 AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan sistem. Teknik detaylar ve kullanım rehberi not defteri içerisinde yer almaktadır.
 
