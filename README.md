@@ -7,6 +7,8 @@ AlphaFold2 ve LocalColabFold kullanarak protein yapısı tahmini yapan basitleş
 
 * `folding.ipynb` dosyasını Google Colab ile doğrudan açın ve ilk hücreyi çalıştırarak Google Drive bağlantısını onaylayın.
 
+* Colabfold programının dosya paketleri yaklaşık 16.3 GB yer kaplamaktadır. Giriş yapılan Google Drive hesabınızın yeterli depolama alanı olup olmadığını kontrol ediniz. Aksi takdirde kurulum gerçekleşmez.
+
 * Drive üzerinde otomatik oluşan Folding/data klasörüne .fasta dosyanızı yükleyin ve hücreleri sırasıyla çalıştırın.
 
 ---
@@ -17,5 +19,7 @@ It is a simplified artificial intelligence model that predicts protein structure
 
 #### Installation and Usage
 * Open the folding.ipynb file in Google Colab and authorize Google Drive access by running the first cell.
+
+* The Colabfold programme's file packages take up approximately 16.3 GB of space. Please check whether your Google Drive account has sufficient storage space. Otherwise, the installation will not proceed.
 
 * Upload your .fasta file to the Folding/data folder, which is automatically created on your Drive, and run the cells in sequence.
